@@ -1,1 +1,3 @@
 My feature file
+my resource file
+
